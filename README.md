@@ -18,6 +18,11 @@ Etudiant 4 : [HUNDERT Johan](mailto:johan.hundert@edu.univ-fcomte.fr?subject=SAE
 
 Ce dépôt contient un site web développé en HTML, CSS et JavaScript dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Le site fournit des informations sur l'entreprise Atos, mettant en avant ses activités, son organisation et son historique. Vous y trouverez également un rapport économique qui analyse l'aspect économique de l'entreprise Atos.
 
+## Résultats académiques
+
+**Note obtenue : 19.80/20** sur les aspects purement techniques - **Meilleure note de la promotion**
+
+Cette excellente évaluation témoigne de la qualité du travail réalisé par l'équipe sur les aspects techniques du développement web, incluant la conformité W3C, l'éco-conception, et la qualité du code.
 
 ## Choix de conception  
 
